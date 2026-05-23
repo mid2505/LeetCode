@@ -1,0 +1,14 @@
+// Problem: Earliest Time to Finish One Task
+// Language: java
+
+class Solution {
+    public int earliestTime(int[][] tasks) {
+        int min = Integer.MAX_VALUE;
+        for(int i=0;i<tasks.length;i++){
+            if(tasks[i][0]+tasks[i][1]<min){
+                min=tasks[i][0]+tasks[i][1];
+            }
+        }
+        return min;
+    }
+}

@@ -1,0 +1,10 @@
+// Problem: Count Commas in Range
+// Language: java
+
+class Solution {
+    public int countCommas(int n) {
+        if(n<1000) return 0;
+        //if(n==100000) return n-1000+2;
+        else return n-1000+1;
+    }
+}
