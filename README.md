@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/mid2505/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mid2505/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3745-maximize-expression-of-three-elements](https://github.com/mid2505/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3912-valid-elements-in-an-array](https://github.com/mid2505/LeetCode/tree/master/3912-valid-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
