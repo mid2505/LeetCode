@@ -12,8 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/mid2505/LeetCode/tree/master/0997-find-the-town-judge) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/mid2505/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/mid2505/LeetCode/tree/master/0997-find-the-town-judge) |
+## String
+|  |
+| ------- |
+| [3120-count-the-number-of-special-characters-i](https://github.com/mid2505/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 <!---LeetCode Topics End-->
