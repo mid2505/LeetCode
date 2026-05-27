@@ -1,0 +1,2 @@
+/* Write your PL/SQL query statement below */
+select s.product_id as "product_id", s.year as "first_year", s.quantity as "quantity", s.price as "price" from sales s join (select product_id, min(year) as m_year from sales group by product_id) m on s.product_id = m.product_id and s.year = m.m_year;
