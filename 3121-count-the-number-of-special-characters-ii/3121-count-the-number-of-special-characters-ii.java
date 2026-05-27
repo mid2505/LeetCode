@@ -11,15 +11,20 @@ class Solution {
                 arr[ch-'A']++;
                 firstOccurence[ch-'A']=i;
             }
+            else if(t >= 97 && t <= 122 && arr[ch-'a']==1 && firstOccurence[ch-'a']<i){
+                arr[ch-'a']=-1;
+                //ans++;
+            }
+
         }
         // display(arr);
         // display(firstOccurence);
         int ans = 0;
-        for(int i=0;i<n;i++){
-            char ch = word.charAt(i);
-            int t = (int)ch;
-            if(t >= 97 && t <= 122 && firstOccurence[ch-'a']<i) arr[ch-'a']=-1;
-        }
+        // for(int i=0;i<n;i++){
+        //     char ch = word.charAt(i);
+        //     int t = (int)ch;
+        //     if(t >= 97 && t <= 122 && firstOccurence[ch-'a']<i) arr[ch-'a']=-1;
+        // }
         for(int i=0;i<n;i++){
             char ch = word.charAt(i);
             int t = (int)ch;
