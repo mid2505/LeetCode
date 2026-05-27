@@ -1,0 +1,2 @@
+/* Write your PL/SQL query statement below */
+SELECT TO_CHAR(DATE_ID,'YYYY-MM-DD') as "date_id",make_name as "make_name",COUNT(DISTINCT LEAD_ID) AS "unique_leads",COUNT(DISTINCT PARTNER_ID) as "unique_partners" FROM DAILYSALES GROUP BY date_id,make_name;
