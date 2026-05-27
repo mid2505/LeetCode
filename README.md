@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0607-sales-person](https://github.com/mid2505/LeetCode/tree/master/0607-sales-person) |
 | [1068-product-sales-analysis-i](https://github.com/mid2505/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/mid2505/LeetCode/tree/master/1070-product-sales-analysis-iii) |
 | [1693-daily-leads-and-partners](https://github.com/mid2505/LeetCode/tree/master/1693-daily-leads-and-partners) |
