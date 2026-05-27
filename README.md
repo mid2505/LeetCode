@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/mid2505/LeetCode/tree/master/0607-sales-person) |
 | [1068-product-sales-analysis-i](https://github.com/mid2505/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/mid2505/LeetCode/tree/master/1070-product-sales-analysis-iii) |
+| [1158-market-analysis-i](https://github.com/mid2505/LeetCode/tree/master/1158-market-analysis-i) |
 | [1693-daily-leads-and-partners](https://github.com/mid2505/LeetCode/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/mid2505/LeetCode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/mid2505/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
