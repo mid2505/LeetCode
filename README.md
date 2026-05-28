@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/mid2505/LeetCode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/mid2505/LeetCode/tree/master/0177-nth-highest-salary) |
+| [0178-rank-scores](https://github.com/mid2505/LeetCode/tree/master/0178-rank-scores) |
 | [0607-sales-person](https://github.com/mid2505/LeetCode/tree/master/0607-sales-person) |
 | [1068-product-sales-analysis-i](https://github.com/mid2505/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/mid2505/LeetCode/tree/master/1070-product-sales-analysis-iii) |
