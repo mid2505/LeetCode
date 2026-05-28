@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/mid2505/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/mid2505/LeetCode/tree/master/0178-rank-scores) |
 | [0607-sales-person](https://github.com/mid2505/LeetCode/tree/master/0607-sales-person) |
+| [0627-swap-sex-of-employees](https://github.com/mid2505/LeetCode/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/mid2505/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/mid2505/LeetCode/tree/master/1070-product-sales-analysis-iii) |
 | [1158-market-analysis-i](https://github.com/mid2505/LeetCode/tree/master/1158-market-analysis-i) |
