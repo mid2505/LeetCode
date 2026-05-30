@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mid2505/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/mid2505/LeetCode/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/mid2505/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/mid2505/LeetCode/tree/master/0724-find-pivot-index) |
 | [0997-find-the-town-judge](https://github.com/mid2505/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mid2505/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3745-maximize-expression-of-three-elements](https://github.com/mid2505/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
@@ -92,4 +93,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mid2505/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/mid2505/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
