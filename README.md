@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/mid2505/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mid2505/LeetCode/tree/master/0016-3sum-closest) |
+| [0036-valid-sudoku](https://github.com/mid2505/LeetCode/tree/master/0036-valid-sudoku) |
 | [0136-single-number](https://github.com/mid2505/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/mid2505/LeetCode/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/mid2505/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/mid2505/LeetCode/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/mid2505/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mid2505/LeetCode/tree/master/0242-valid-anagram) |
 | [0997-find-the-town-judge](https://github.com/mid2505/LeetCode/tree/master/0997-find-the-town-judge) |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mid2505/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/mid2505/LeetCode/tree/master/0724-find-pivot-index) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/mid2505/LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
