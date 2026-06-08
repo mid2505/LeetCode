@@ -15,7 +15,7 @@ class Solution {
     }
     public void f(int idx, int n, List<String> board){
         if(idx>=n){
-            l.add(new ArrayList<>(board)); // java sucks, it stupid strings are immutable, that's why i created a new arraylist, i hate it anyways.
+            l.add(new ArrayList<>(board)); // java sucks, it's stupid strings are immutable, that's why i created a new arraylist, i hate it anyways.
             return;
         }
         for(int i=0;i<n;i++){
