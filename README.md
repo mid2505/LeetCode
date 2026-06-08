@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/mid2505/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/mid2505/LeetCode/tree/master/0724-find-pivot-index) |
 | [0997-find-the-town-judge](https://github.com/mid2505/LeetCode/tree/master/0997-find-the-town-judge) |
+| [1222-queens-that-can-attack-the-king](https://github.com/mid2505/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mid2505/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2109-adding-spaces-to-a-string](https://github.com/mid2505/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2126-destroying-asteroids](https://github.com/mid2505/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/mid2505/LeetCode/tree/master/0412-fizz-buzz) |
+| [1222-queens-that-can-attack-the-king](https://github.com/mid2505/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [2109-adding-spaces-to-a-string](https://github.com/mid2505/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mid2505/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Database
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mid2505/LeetCode/tree/master/0036-valid-sudoku) |
+| [1222-queens-that-can-attack-the-king](https://github.com/mid2505/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 ## Backtracking
 |  |
 | ------- |
