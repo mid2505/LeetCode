@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/mid2505/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mid2505/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mid2505/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/mid2505/LeetCode/tree/master/0051-n-queens) |
 | [0136-single-number](https://github.com/mid2505/LeetCode/tree/master/0136-single-number) |
 | [0216-combination-sum-iii](https://github.com/mid2505/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/mid2505/LeetCode/tree/master/0217-contains-duplicate) |
@@ -123,5 +124,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/mid2505/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mid2505/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mid2505/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/mid2505/LeetCode/tree/master/0051-n-queens) |
 | [0216-combination-sum-iii](https://github.com/mid2505/LeetCode/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
