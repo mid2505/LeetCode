@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/mid2505/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mid2505/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/mid2505/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [3689-maximum-total-subarray-value-i](https://github.com/mid2505/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/mid2505/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3912-valid-elements-in-an-array](https://github.com/mid2505/LeetCode/tree/master/3912-valid-elements-in-an-array) |
 ## Hash Table
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2126-destroying-asteroids](https://github.com/mid2505/LeetCode/tree/master/2126-destroying-asteroids) |
+| [3689-maximum-total-subarray-value-i](https://github.com/mid2505/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/mid2505/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Sorting
 |  |
