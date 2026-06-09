@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mid2505/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mid2505/LeetCode/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/mid2505/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/mid2505/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/mid2505/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mid2505/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mid2505/LeetCode/tree/master/0046-permutations) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mid2505/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/mid2505/LeetCode/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/mid2505/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mid2505/LeetCode/tree/master/0242-valid-anagram) |
 | [0997-find-the-town-judge](https://github.com/mid2505/LeetCode/tree/master/0997-find-the-town-judge) |
@@ -126,10 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mid2505/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/mid2505/LeetCode/tree/master/0037-sudoku-solver) |
 | [1222-queens-that-can-attack-the-king](https://github.com/mid2505/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/mid2505/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/mid2505/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mid2505/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mid2505/LeetCode/tree/master/0046-permutations) |
