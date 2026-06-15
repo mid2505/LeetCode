@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/mid2505/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mid2505/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/mid2505/LeetCode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/mid2505/LeetCode/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/mid2505/LeetCode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/mid2505/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mid2505/LeetCode/tree/master/0213-house-robber-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/mid2505/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/mid2505/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/mid2505/LeetCode/tree/master/0860-lemonade-change) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mid2505/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/mid2505/LeetCode/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/mid2505/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mid2505/LeetCode/tree/master/0213-house-robber-ii) |
 ## Linked List
