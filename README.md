@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mid2505/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/mid2505/LeetCode/tree/master/0412-fizz-buzz) |
 | [0819-most-common-word](https://github.com/mid2505/LeetCode/tree/master/0819-most-common-word) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mid2505/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2109-adding-spaces-to-a-string](https://github.com/mid2505/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mid2505/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mid2505/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/mid2505/LeetCode/tree/master/0455-assign-cookies) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mid2505/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mid2505/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/mid2505/LeetCode/tree/master/2126-destroying-asteroids) |
 | [3689-maximum-total-subarray-value-i](https://github.com/mid2505/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
