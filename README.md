@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1222-queens-that-can-attack-the-king](https://github.com/mid2505/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mid2505/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mid2505/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/mid2505/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2109-adding-spaces-to-a-string](https://github.com/mid2505/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2126-destroying-asteroids](https://github.com/mid2505/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mid2505/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mid2505/LeetCode/tree/master/0136-single-number) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/mid2505/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Greedy
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/mid2505/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/mid2505/LeetCode/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3745-maximize-expression-of-three-elements](https://github.com/mid2505/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Math
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/mid2505/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/mid2505/LeetCode/tree/master/0052-n-queens-ii) |
 | [0216-combination-sum-iii](https://github.com/mid2505/LeetCode/tree/master/0216-combination-sum-iii) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/mid2505/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
