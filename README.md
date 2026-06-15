@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mid2505/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mid2505/LeetCode/tree/master/0016-3sum-closest) |
 | [0455-assign-cookies](https://github.com/mid2505/LeetCode/tree/master/0455-assign-cookies) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mid2505/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/mid2505/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mid2505/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Design
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/mid2505/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mid2505/LeetCode/tree/master/0213-house-robber-ii) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mid2505/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
