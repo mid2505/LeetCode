@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/mid2505/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1222-queens-that-can-attack-the-king](https://github.com/mid2505/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mid2505/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/mid2505/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/mid2505/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2126-destroying-asteroids](https://github.com/mid2505/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mid2505/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/mid2505/LeetCode/tree/master/0455-assign-cookies) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/mid2505/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/mid2505/LeetCode/tree/master/2126-destroying-asteroids) |
 | [3689-maximum-total-subarray-value-i](https://github.com/mid2505/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/mid2505/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mid2505/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mid2505/LeetCode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/mid2505/LeetCode/tree/master/0455-assign-cookies) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/mid2505/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/mid2505/LeetCode/tree/master/2126-destroying-asteroids) |
 | [3745-maximize-expression-of-three-elements](https://github.com/mid2505/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Enumeration
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mid2505/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mid2505/LeetCode/tree/master/0016-3sum-closest) |
 | [0455-assign-cookies](https://github.com/mid2505/LeetCode/tree/master/0455-assign-cookies) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/mid2505/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mid2505/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/mid2505/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mid2505/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
