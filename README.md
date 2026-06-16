@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/mid2505/LeetCode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/mid2505/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/mid2505/LeetCode/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/mid2505/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/mid2505/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/mid2505/LeetCode/tree/master/0455-assign-cookies) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/mid2505/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mid2505/LeetCode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/mid2505/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/mid2505/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Greedy
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mid2505/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mid2505/LeetCode/tree/master/0016-3sum-closest) |
 | [0142-linked-list-cycle-ii](https://github.com/mid2505/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/mid2505/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/mid2505/LeetCode/tree/master/0455-assign-cookies) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mid2505/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mid2505/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -196,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/mid2505/LeetCode/tree/master/0994-rotting-oranges) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mid2505/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
