@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1222-queens-that-can-attack-the-king](https://github.com/mid2505/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mid2505/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mid2505/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1905-count-sub-islands](https://github.com/mid2505/LeetCode/tree/master/1905-count-sub-islands) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/mid2505/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2109-adding-spaces-to-a-string](https://github.com/mid2505/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2126-destroying-asteroids](https://github.com/mid2505/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/mid2505/LeetCode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/mid2505/LeetCode/tree/master/0994-rotting-oranges) |
 | [1222-queens-that-can-attack-the-king](https://github.com/mid2505/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
+| [1905-count-sub-islands](https://github.com/mid2505/LeetCode/tree/master/1905-count-sub-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mid2505/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Backtracking
 |  |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/mid2505/LeetCode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/mid2505/LeetCode/tree/master/0994-rotting-oranges) |
+| [1905-count-sub-islands](https://github.com/mid2505/LeetCode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mid2505/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mid2505/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search
@@ -215,12 +218,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mid2505/LeetCode/tree/master/0200-number-of-islands) |
+| [1905-count-sub-islands](https://github.com/mid2505/LeetCode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mid2505/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mid2505/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mid2505/LeetCode/tree/master/0200-number-of-islands) |
+| [1905-count-sub-islands](https://github.com/mid2505/LeetCode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mid2505/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mid2505/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
