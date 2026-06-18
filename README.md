@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/mid2505/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/mid2505/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mid2505/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## String
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mid2505/LeetCode/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/mid2505/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/mid2505/LeetCode/tree/master/0994-rotting-oranges) |
 | [1302-deepest-leaves-sum](https://github.com/mid2505/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1905-count-sub-islands](https://github.com/mid2505/LeetCode/tree/master/1905-count-sub-islands) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mid2505/LeetCode/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/mid2505/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1302-deepest-leaves-sum](https://github.com/mid2505/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1905-count-sub-islands](https://github.com/mid2505/LeetCode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mid2505/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mid2505/LeetCode/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/mid2505/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1905-count-sub-islands](https://github.com/mid2505/LeetCode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mid2505/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mid2505/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
