@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/mid2505/LeetCode/tree/master/0412-fizz-buzz) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/mid2505/LeetCode/tree/master/3001-minimum-moves-to-capture-the-queen) |
+| [3099-harshad-number](https://github.com/mid2505/LeetCode/tree/master/3099-harshad-number) |
 ## Simulation
 |  |
 | ------- |
