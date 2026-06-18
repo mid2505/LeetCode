@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/mid2505/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mid2505/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/mid2505/LeetCode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/mid2505/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mid2505/LeetCode/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/mid2505/LeetCode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/mid2505/LeetCode/tree/master/0198-house-robber) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mid2505/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mid2505/LeetCode/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/mid2505/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mid2505/LeetCode/tree/master/0213-house-robber-ii) |
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/mid2505/LeetCode/tree/master/0207-course-schedule) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/mid2505/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
