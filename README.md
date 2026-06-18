@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/mid2505/LeetCode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/mid2505/LeetCode/tree/master/0994-rotting-oranges) |
+| [1302-deepest-leaves-sum](https://github.com/mid2505/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1905-count-sub-islands](https://github.com/mid2505/LeetCode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mid2505/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mid2505/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mid2505/LeetCode/tree/master/0200-number-of-islands) |
+| [1302-deepest-leaves-sum](https://github.com/mid2505/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1905-count-sub-islands](https://github.com/mid2505/LeetCode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mid2505/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mid2505/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -231,4 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/mid2505/LeetCode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mid2505/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mid2505/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Tree
+|  |
+| ------- |
+| [1302-deepest-leaves-sum](https://github.com/mid2505/LeetCode/tree/master/1302-deepest-leaves-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [1302-deepest-leaves-sum](https://github.com/mid2505/LeetCode/tree/master/1302-deepest-leaves-sum) |
 <!---LeetCode Topics End-->
