@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/mid2505/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mid2505/LeetCode/tree/master/0016-3sum-closest) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mid2505/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/mid2505/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/mid2505/LeetCode/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/mid2505/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mid2505/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mid2505/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/mid2505/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/mid2505/LeetCode/tree/master/0148-sort-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mid2505/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
