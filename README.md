@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/mid2505/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mid2505/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2109-adding-spaces-to-a-string](https://github.com/mid2505/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [2390-removing-stars-from-a-string](https://github.com/mid2505/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mid2505/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mid2505/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Bit Manipulation
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/mid2505/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mid2505/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mid2505/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2390-removing-stars-from-a-string](https://github.com/mid2505/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/mid2505/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Database
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mid2505/LeetCode/tree/master/0020-valid-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mid2505/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/mid2505/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mid2505/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Breadth-First Search
 |  |
