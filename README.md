@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/mid2505/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/mid2505/LeetCode/tree/master/0455-assign-cookies) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/mid2505/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0695-max-area-of-island](https://github.com/mid2505/LeetCode/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/mid2505/LeetCode/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/mid2505/LeetCode/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/mid2505/LeetCode/tree/master/0860-lemonade-change) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/mid2505/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mid2505/LeetCode/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/mid2505/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/mid2505/LeetCode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/mid2505/LeetCode/tree/master/0994-rotting-oranges) |
 | [1222-queens-that-can-attack-the-king](https://github.com/mid2505/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1905-count-sub-islands](https://github.com/mid2505/LeetCode/tree/master/1905-count-sub-islands) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/mid2505/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mid2505/LeetCode/tree/master/0207-course-schedule) |
+| [0695-max-area-of-island](https://github.com/mid2505/LeetCode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/mid2505/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/mid2505/LeetCode/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/mid2505/LeetCode/tree/master/0994-rotting-oranges) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/mid2505/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mid2505/LeetCode/tree/master/0207-course-schedule) |
+| [0695-max-area-of-island](https://github.com/mid2505/LeetCode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/mid2505/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/mid2505/LeetCode/tree/master/0886-possible-bipartition) |
 | [1302-deepest-leaves-sum](https://github.com/mid2505/LeetCode/tree/master/1302-deepest-leaves-sum) |
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mid2505/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/mid2505/LeetCode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/mid2505/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/mid2505/LeetCode/tree/master/0886-possible-bipartition) |
 | [1905-count-sub-islands](https://github.com/mid2505/LeetCode/tree/master/1905-count-sub-islands) |
