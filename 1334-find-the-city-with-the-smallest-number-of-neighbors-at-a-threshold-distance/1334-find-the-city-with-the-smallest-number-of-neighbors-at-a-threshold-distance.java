@@ -20,6 +20,7 @@ class Solution {
                 int[] cur = pq.poll();
                 int distance = cur[0];
                 int node = cur[1];
+                if (distance > dist[node]) continue; 
                 List<int[]> l= map.getOrDefault(node, Collections.emptyList());
                 for(int[] x : l){
                     if(distance + x[1] < dist[x[0]]){
