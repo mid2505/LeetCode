@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/mid2505/LeetCode/tree/master/0819-most-common-word) |
 | [0953-verifying-an-alien-dictionary](https://github.com/mid2505/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mid2505/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1844-replace-all-digits-with-characters](https://github.com/mid2505/LeetCode/tree/master/1844-replace-all-digits-with-characters) |
 | [2109-adding-spaces-to-a-string](https://github.com/mid2505/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/mid2505/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mid2505/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
