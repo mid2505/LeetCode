@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/mid2505/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/mid2505/LeetCode/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3099-harshad-number](https://github.com/mid2505/LeetCode/tree/master/3099-harshad-number) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mid2505/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
 |  |
 | ------- |
