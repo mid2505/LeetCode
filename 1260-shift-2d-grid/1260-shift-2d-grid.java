@@ -36,6 +36,7 @@ class Solution {
             s++;
             e--;
         }
+        System.gc();
         return l;
     }
     public List<List<Integer>> revAll(int[][] grid, int m, int n){
