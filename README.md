@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/mid2505/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1222-queens-that-can-attack-the-king](https://github.com/mid2505/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1254-number-of-closed-islands](https://github.com/mid2505/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1260-shift-2d-grid](https://github.com/mid2505/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1732-find-the-highest-altitude](https://github.com/mid2505/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mid2505/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mid2505/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/mid2505/LeetCode/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/mid2505/LeetCode/tree/master/0735-asteroid-collision) |
 | [1222-queens-that-can-attack-the-king](https://github.com/mid2505/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
+| [1260-shift-2d-grid](https://github.com/mid2505/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2109-adding-spaces-to-a-string](https://github.com/mid2505/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mid2505/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mid2505/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/mid2505/LeetCode/tree/master/0994-rotting-oranges) |
 | [1222-queens-that-can-attack-the-king](https://github.com/mid2505/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1254-number-of-closed-islands](https://github.com/mid2505/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1260-shift-2d-grid](https://github.com/mid2505/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1905-count-sub-islands](https://github.com/mid2505/LeetCode/tree/master/1905-count-sub-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mid2505/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Backtracking
