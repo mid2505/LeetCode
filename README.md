@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/mid2505/LeetCode/tree/master/0735-asteroid-collision) |
 | [0819-most-common-word](https://github.com/mid2505/LeetCode/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/mid2505/LeetCode/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/mid2505/LeetCode/tree/master/0877-stone-game) |
 | [0953-verifying-an-alien-dictionary](https://github.com/mid2505/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0994-rotting-oranges](https://github.com/mid2505/LeetCode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/mid2505/LeetCode/tree/master/0997-find-the-town-judge) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/mid2505/LeetCode/tree/master/0412-fizz-buzz) |
+| [0877-stone-game](https://github.com/mid2505/LeetCode/tree/master/0877-stone-game) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mid2505/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/mid2505/LeetCode/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3099-harshad-number](https://github.com/mid2505/LeetCode/tree/master/3099-harshad-number) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mid2505/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mid2505/LeetCode/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/mid2505/LeetCode/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/mid2505/LeetCode/tree/master/0877-stone-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mid2505/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Linked List
 |  |
@@ -351,4 +354,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mid2505/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/mid2505/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/mid2505/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/mid2505/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
