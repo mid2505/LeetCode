@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/mid2505/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mid2505/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3689-maximum-total-subarray-value-i](https://github.com/mid2505/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/mid2505/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3745-maximize-expression-of-three-elements](https://github.com/mid2505/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3912-valid-elements-in-an-array](https://github.com/mid2505/LeetCode/tree/master/3912-valid-elements-in-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/mid2505/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-design-sql](https://github.com/mid2505/LeetCode/tree/master/2408-design-sql) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/mid2505/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/mid2505/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/mid2505/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Graph Theory
 |  |
 | ------- |
