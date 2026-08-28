@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/mid2505/LeetCode/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/mid2505/LeetCode/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/mid2505/LeetCode/tree/master/0877-stone-game) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/mid2505/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mid2505/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/mid2505/LeetCode/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/mid2505/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Depth-First Search
 |  |
@@ -372,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/mid2505/LeetCode/tree/master/0877-stone-game) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/mid2505/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
